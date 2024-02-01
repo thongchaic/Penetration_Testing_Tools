@@ -7,10 +7,14 @@
 * https://github.com/andresriancho/w3af
 * https://github.com/hashcat/hashcat
 * https://github.com/danielmiessler/SecLists
+* https://www.metasploit.com/
 * https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/tools.md
 * https://github.com/NetSPI
+* https://github.com/sqlmapproject/sqlmap
+* https://github.com/beefproject/beef
 * https://github.com/Orange-Cyberdefense
 * https://github.com/RhinoSecurityLabs/pacu
+* https://github.com/axosecurity/Cain-and-Abel
 * https://www.stunnel.org/index.html
 * https://github.com/Ettercap/ettercap
 * https://grsecurity.net/
