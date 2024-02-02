@@ -18,7 +18,7 @@
 * https://www.stunnel.org/index.html
 * https://github.com/Ettercap/ettercap
 * https://grsecurity.net/
-* https://github.com/gorhill/uBlock?tab=readme-ov-file
+* https://github.com/gorhill/uBlock
 * https://osquery.io/
 * https://github.com/draios/sysdig
 * https://scapy.net/
