@@ -33,3 +33,13 @@
 * https://github.com/hellman/thesis
 * https://quipqiup.com/
 * https://github.com/mgeeky/Penetration-Testing-Tools
+* -- DFF -- 
+* https://github.com/fox-it
+* https://github.com/dasec
+* https://github.com/DFIRKuiper/Kuiper
+* https://github.com/google/turbinia
+* https://github.com/mikeroyal/Digital-Forensics-Guide
+* https://github.com/log2timeline/dfvfs
+* https://github.com/scorelab
+* https://github.com/PacktPublishing/Python-Digital-Forensics-Cookbook
+* https://github.com/The-Art-of-Hacking/h4cker
