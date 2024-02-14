@@ -33,7 +33,13 @@
 * https://github.com/hellman/thesis
 * https://quipqiup.com/
 * https://github.com/mgeeky/Penetration-Testing-Tools
-* -- DFF -- 
+* -- DFF --
+* https://github.com/sleuthkit/autopsy
+* https://www.sleuthkit.org/
+* https://github.com/teamdfir
+* https://www.sans.org/tools/sift-workstation/
+* https://www.exterro.com/digital-forensics-software/forensic-toolkit
+* https://www.osforensics.com/
 * https://github.com/fox-it
 * https://github.com/dasec
 * https://github.com/DFIRKuiper/Kuiper
