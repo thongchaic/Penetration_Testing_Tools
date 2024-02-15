@@ -29,8 +29,11 @@
 * https://github.com/wtsxDev
 * https://github.com/apsdehal/awesome-ctf
 * https://github.com/iagox86
+* https://github.com/sullo
 * https://www.unix-ag.uni-kl.de/~conrad/
 * https://github.com/ius/rsatool
+* https://github.com/CISOfy
+* https://github.com/smicallef
 * https://github.com/hellman/thesis
 * https://quipqiup.com/
 * https://github.com/mgeeky/Penetration-Testing-Tools
