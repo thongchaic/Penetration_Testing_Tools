@@ -37,6 +37,7 @@
 * https://github.com/hellman/thesis
 * https://quipqiup.com/
 * https://github.com/mgeeky/Penetration-Testing-Tools
+* https://github.com/trustedsec
 * https://github.com/picoCTF
 * -- DFF --
 * https://github.com/sleuthkit/autopsy
