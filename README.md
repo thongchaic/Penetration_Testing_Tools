@@ -40,6 +40,7 @@
 * https://github.com/trustedsec
 * https://github.com/ZerBea/hcxtools
 * https://github.com/picoCTF
+* https://websploit.org/
 * -- DFF --
 * https://github.com/sleuthkit/autopsy
 * https://www.sleuthkit.org/
