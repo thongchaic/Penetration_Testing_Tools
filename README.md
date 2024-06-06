@@ -56,3 +56,9 @@
 * https://github.com/scorelab
 * https://github.com/PacktPublishing/Python-Digital-Forensics-Cookbook
 * https://github.com/The-Art-of-Hacking/h4cker
+* -- OSINT ---
+* https://whatsmyname.app/
+* https://osintframework.com/
+* https://smart.myosint.training/
+* https://github.com/smicallef/spiderfoot
+* 
