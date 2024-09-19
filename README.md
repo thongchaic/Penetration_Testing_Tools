@@ -59,6 +59,7 @@
 * https://github.com/The-Art-of-Hacking/h4cker
 * -- OSINT ---
 * https://whatsmyname.app/
+* https://start.me/p/DPYPMz/the-ultimate-osint-collection
 * https://osintframework.com/
 * https://smart.myosint.training/
 * https://github.com/smicallef/spiderfoot
