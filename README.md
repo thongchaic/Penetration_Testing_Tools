@@ -60,6 +60,7 @@
 * -- OSINT ---
 * https://whatsmyname.app/
 * https://start.me/p/DPYPMz/the-ultimate-osint-collection
+* https://cipher387.github.io/osint_stuff_tool_collection
 * https://osintframework.com/
 * https://smart.myosint.training/
 * https://github.com/smicallef/spiderfoot
